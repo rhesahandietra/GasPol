@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "353250797952",
+    "firebase_url": "https://gaspol7117.firebaseio.com",
+    "project_id": "gaspol7117",
+    "storage_bucket": "gaspol7117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353250797952:android:7c17c13cf13610cb",
+        "android_client_info": {
+          "package_name": "com.handietron.gaspol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353250797952-ui8r1v87fj2l4l7nd2e8l3cujaomqs99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.handietron.gaspol",
+            "certificate_hash": "17d98f8fbea941bdd969016db6771e78600ea552"
+          }
+        },
+        {
+          "client_id": "353250797952-lgc07ri2do1b6s89utd4qfunq8ll7h68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp6zaW_hgjfJBkhycDoqJdmQlOcdUzFco"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353250797952-lgc07ri2do1b6s89utd4qfunq8ll7h68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
